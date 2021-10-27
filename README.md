@@ -1,16 +1,17 @@
-### Hi there 👋
+# Bem vindo ao meu GitHub!
+![img](https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904)
+# Ficha de Personagem
+### Nome: Luiz Carlos Bonini
+### Apelido: Nyu
 
-<!--
-**LuizCBonini/LuizCBonini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Infomações:
 
-Here are some ideas to get you started:
+- ⬆️ Level: 24 anos
+- 🌟 Exp: 00
+- 🧙‍♂️ Classe: Estudante de Análise e Desenvolvimento de Sistemas
+- 🎯 Sub-Classe: Front-End Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/LuizCBonini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizCBonini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>

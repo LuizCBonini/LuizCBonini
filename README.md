@@ -9,7 +9,7 @@
   
 # Ficha de Personagem
   
-  <img align="right" alt="Luiz-pic" height="250" style="border-radius:50px;" src="https://i.imgflip.com/5s4u67.gif">
+  <img align="right" alt="Luiz-pic" height="250" style="border-radius:50px;" src="https://i.ibb.co/zNYBkFf/Meugif.gif">
   
 </div>
   

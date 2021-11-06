@@ -19,7 +19,7 @@
 #### Infomações:
 
 - ⬆️ Level: 24 anos
-- 🌟 Exp: 00
+- 🌟 Exp: JR
 - 🧙‍♂️ Classe: Estudante de Análise e Desenvolvimento de Sistemas
 - 🎯 Sub-Classe: Front-End Developer
 

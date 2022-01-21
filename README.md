@@ -48,17 +48,12 @@
   <a href="https://github.com/LuizCBonini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizCBonini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true/">
 
-  <a href="https://github.com/LuizCBonini">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizCBonini&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"/>
-  </a>
-
 <h3 align="center">Trabalhando em:</h3>
 
 <p align="center">
   <a href="https://github.com/LuizCBonini/Projeto-Curso-React">
     <img
-      align="center"
-      height="120em"
+      height="180em"
       src="https://github-readme-stats.vercel.app/api/pin/?username=LuizCBonini&repo=Projeto-Curso-React&theme=tokyonight">
     </img>
   </a>

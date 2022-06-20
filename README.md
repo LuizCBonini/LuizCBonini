@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/LuizCBonini/LuizCBonini/main/img/bannergithubLuiz.png" width="100%">
 
 <div align="center">
-  <a href="https://luizcbonini.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Meu-Portf%C3%B3lio-blueviolet?style=for-the-badge" target="_blank"></a>
+  <a href="https://luiz-bonini.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Meu-Portf%C3%B3lio-blueviolet?style=for-the-badge" target="_blank"></a>
 </div>
 
 <div style="display: inline_block" align="center"><br>

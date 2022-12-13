@@ -44,7 +44,7 @@
   <a href="https://github.com/LuizCBonini/Alura-Angular">
     <img
       height="150em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=LuizCBonini&repo=Alura-Angular&theme=tokyonight">
+      src="https://github.com/LuizCBonini/Dogs&theme=tokyonight">
     </img>
   </a>
 </p>

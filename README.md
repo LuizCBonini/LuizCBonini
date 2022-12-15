@@ -41,7 +41,7 @@
 <h3 align="center">Meu melhor trabalho:</h3>
 
 <p align="center">
-  <a href="https://github.com/LuizCBonini/Alura-Angular">
+  <a href="https://github.com/LuizCBonini/Dogs">
     <img
       height="150em"
       src="https://github-readme-stats.vercel.app/api/pin/?username=LuizCBonini&repo=Dogs&theme=tokyonight">
